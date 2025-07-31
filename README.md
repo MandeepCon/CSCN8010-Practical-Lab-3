@@ -74,7 +74,8 @@ To develop and evaluate two deep learning models that classify input images as e
 │   └── cats_vs_dogs/        # Filtered and structured dataset (train/val/test)
 ├── models/                  # Best model weights saved via callbacks
 ├── notebooks/               # Jupyter Notebooks with step-by-step analysis
-└── README.md                # Project documentation
+├── README.md/               # Project documentation
+└── requirements.txt 
 ```
 
 ---
